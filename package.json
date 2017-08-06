@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/xiangjianqun/xiangjianqun-test/issues"
   },
-  "homepage": "https://github.com/xiangjianqun/xiangjianqun-test#readme"
+  "homepage": "https://github.com/xiangjianqun/xiangjianqun-test#readme",
+  "dependencies": {
+    "chromedriver": "^2.31.0",
+    "selenium": "^2.20.0",
+    "selenium-webdriver": "^3.5.0"
+  }
 }
